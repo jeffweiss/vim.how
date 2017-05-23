@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>uildDrafts/quit/</loc>
+    <loc>http://vim.how/quit/</loc>
     <lastmod>2017-05-23T13:37:40-07:00</lastmod>
   </url>
   
   <url>
-    <loc>uildDrafts/categories/</loc>
+    <loc>http://vim.how/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uildDrafts/categories/essentials/</loc>
-    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>uildDrafts/tags/essentials/</loc>
+    <loc>http://vim.how/categories/essentials/</loc>
     <lastmod>2017-05-23T13:37:40-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uildDrafts/tags/quit/</loc>
+    <loc>http://vim.how/tags/essentials/</loc>
     <lastmod>2017-05-23T13:37:40-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uildDrafts/tags/</loc>
+    <loc>http://vim.how/tags/quit/</loc>
     <lastmod>2017-05-23T13:37:40-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>uildDrafts/</loc>
+    <loc>http://vim.how/tags/</loc>
+    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vim.how/</loc>
     <lastmod>2017-05-23T13:37:40-07:00</lastmod>
     <priority>0</priority>
   </url>
