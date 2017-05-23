@@ -13,7 +13,26 @@
   </url>
   
   <url>
+    <loc>http://vim.how/categories/essentials/</loc>
+    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vim.how/tags/essentials/</loc>
+    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://vim.how/tags/quit/</loc>
+    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://vim.how/tags/</loc>
+    <lastmod>2017-05-23T13:37:40-07:00</lastmod>
     <priority>0</priority>
   </url>
   
