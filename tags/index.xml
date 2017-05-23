@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on vim.how</title>
-    <link>http://vim.how/tags/</link>
+    <link>uildDrafts/tags/</link>
     <description>Recent content in Tags on vim.how</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 23 May 2017 13:37:40 -0700</lastBuildDate>
     
-	<atom:link href="http://vim.how/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildDrafts/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Essentials</title>
-      <link>http://vim.how/tags/essentials/</link>
+      <link>uildDrafts/tags/essentials/</link>
       <pubDate>Tue, 23 May 2017 13:37:40 -0700</pubDate>
       
-      <guid>http://vim.how/tags/essentials/</guid>
+      <guid>uildDrafts/tags/essentials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quit</title>
-      <link>http://vim.how/tags/quit/</link>
+      <link>uildDrafts/tags/quit/</link>
       <pubDate>Tue, 23 May 2017 13:37:40 -0700</pubDate>
       
-      <guid>http://vim.how/tags/quit/</guid>
+      <guid>uildDrafts/tags/quit/</guid>
       <description></description>
     </item>
     

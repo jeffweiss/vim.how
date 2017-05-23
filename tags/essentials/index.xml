@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Essentials on vim.how</title>
-    <link>http://vim.how/tags/essentials/</link>
+    <link>uildDrafts/tags/essentials/</link>
     <description>Recent content in Essentials on vim.how</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 23 May 2017 13:37:40 -0700</lastBuildDate>
     
-	<atom:link href="http://vim.how/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="uildDrafts/tags/essentials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to quit vim</title>
-      <link>http://vim.how/quit/</link>
+      <link>uildDrafts/quit/</link>
       <pubDate>Tue, 23 May 2017 13:37:40 -0700</pubDate>
       
-      <guid>http://vim.how/quit/</guid>
+      <guid>uildDrafts/quit/</guid>
       <description>:wq</description>
     </item>
     
