@@ -1,0 +1,42 @@
+baseURL = "http://vim.how"
+title = "vim.how"
+
+theme = "minimo"
+
+googleAnalytics = ""
+Paginate = 3
+
+[params]
+  description = "How-to articles for vim"
+  dateFormat = "2006, Jan 2"
+  copyrightStartYear = "2017"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[author]
+  name = "jeffweiss"
+
+[author.social]
+  github = "jeffweiss/vim.how"
+  twitter = "jeffweiss"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  weight = -70
+  identifier = "home.vim.how"
+  url = "http://vim.how"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
