@@ -7,5 +7,11 @@ tags = [ "Essentials", "quit" ]
 
 +++
 
-`:wq`
+# Quit, with Extreme Prejudice
+
+Hit `Esc` a bunch of times and then `:q!`
+
+# Save and Quit
+
+Hit `Esc` a bunch of times and then `:wq`
 
